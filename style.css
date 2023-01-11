@@ -1559,15 +1559,15 @@ button:focus {
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary.focus {
-  background-color: #FED8B1;
-  border-color: #FED8B1;
+  background-color: #e78f2a;
+  border-color: #e78f2a;
   color: #FFFFFF;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #fff;
-  background-color: #FED8B1;
-  border-color: #FED8B1;
+  background-color: #e78f2a;
+  border-color: #e78f2a;
 }
 .btn-primary:not(:disabled):not(.disabled):active,
 .btn-primary:not(:disabled):not(.disabled).active,
